@@ -22,7 +22,7 @@
 
 // console.log('just before subscribe');
 
-// observable.subscribe({
+// const observer = observable.subscribe({
 //   next(x) {
 //     console.log('got value ' + x);
 //   },
@@ -33,6 +33,9 @@
 //     console.log('done');
 //   },
 // });
+
+
+// debugger
 // console.log('just after subscribe');
 
 //Observable.subscribe means "give me any amount of values, either synchronously or asynchronously"

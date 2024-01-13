@@ -2,7 +2,7 @@
 
 // Creates an observable that emits values every 1000 milliseconds
 // const observable = rxjs.interval(1000);
-// // Subscribe to the observable and log the emitted values to the console
+// // // Subscribe to the observable and log the emitted values to the console
 // const subscription = observable.subscribe(x => console.log(x));
 // console.log(typeof subscription)
 // Later:
